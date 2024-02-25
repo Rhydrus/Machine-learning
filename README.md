@@ -1,11 +1,5 @@
 # Introducción
 
-Propietario: Carlos Castelo
-Verificación: Verificada
-Etiquetas: Machine learning, Teoria
-Fecha: 23 de febrero de 2024
-Fecha de creación: 23 de febrero de 2024 11:10
-
 > **Consejo:** Para aprender sobre Machine Learning, es importante comenzar con los fundamentos de la matemática y la estadística. La comprensión de los conceptos básicos de álgebra lineal, cálculo y probabilidad será esencial. Luego, puedes adentrarte en los algoritmos de aprendizaje supervisado y no supervisado, y practicar con conjuntos de datos reales para comprender cómo funcionan estos algoritmos en situaciones prácticas. Recuerda que la práctica constante y la curiosidad son clave en esta área de estudio.
 > 
 
